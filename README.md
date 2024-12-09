@@ -18,6 +18,6 @@ Proyek ini menganalisis data pasien kanker payudara di Rumah Sakit Panti Rapih, 
 Proyek ini menganalisis persepsi tingkat kebahagiaan masyarakat Indonesia pada tahun 2021 berdasarkan berbagai karakteristik demografis, seperti jenis kelamin, kelompok umur, status perkawinan, wilayah tempat tinggal, dan tingkat pendidikan yang ditamatkan. Analisis ini bertujuan untuk memahami pola persepsi kebahagiaan dan bagaimana faktor-faktor tersebut berkontribusi terhadap tingkat kebahagiaan masyarakat.
 
 5. Analisis Data Ruang Terbuka Hijau di Provinsi Aceh
-Proyek ini menganalisis data ruang terbuka hijau (RTH) di kabupaten/kota di Provinsi Aceh dalam periode 2008–2022. Data mencakup luas RTH dalam bentuk wide dan long, luas wilayah perkotaan, serta luas wilayah administrasi. Analisis bertujuan untuk:
+Proyek ini menganalisis data ruang terbuka hijau (RTH) di kabupaten/kota di Provinsi Aceh dalam periode 2018–2022. Data mencakup luas RTH dalam bentuk wide dan long, luas wilayah perkotaan, serta luas wilayah administrasi. Analisis bertujuan untuk:
 - Melihat perubahan luas RTH dan persentasenya dari tahun ke tahun.
 - Mengidentifikasi pola dan tren penggunaan ruang terbuka hijau di berbagai kabupaten/kota. Proyek ini mendukung perencanaan tata ruang dan pengelolaan lingkungan di Provinsi Aceh.
